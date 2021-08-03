@@ -1,5 +1,5 @@
 # JSawrm-PSO-maven-lib
-[![](https://jitpack.io/v/archialgo/HE_Mesh-maven-lib.svg)](https://jitpack.io/#archialgo/HE_Mesh-maven-lib)  
+[![](https://jitpack.io/v/Agent14zbz/JSawrm-PSO-maven-lib.svg)](https://jitpack.io/#Agent14zbz/JSawrm-PSO-maven-lib)  
 original author: [JSawrm-PSO](http://jswarm-pso.sourceforge.net/)  
 
 ## Supported Versions:  
