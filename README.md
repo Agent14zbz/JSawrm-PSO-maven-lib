@@ -1,6 +1,6 @@
-# JSawrm-PSO-maven-lib
-[![](https://jitpack.io/v/Agent14zbz/JSawrm-PSO-maven-lib.svg)](https://jitpack.io/#Agent14zbz/JSawrm-PSO-maven-lib)  
-original author: [JSawrm-PSO](http://jswarm-pso.sourceforge.net/)  
+# JSwarm-PSO-maven-lib
+[![](https://jitpack.io/v/Agent14zbz/JSwarm-PSO-maven-lib.svg)](https://jitpack.io/#Agent14zbz/JSwarm-PSO-maven-lib)  
+original author: [JSwarm-PSO](http://jswarm-pso.sourceforge.net/)  
 
 ## Supported Versions:  
 - 2.08
@@ -19,7 +19,7 @@ original author: [JSawrm-PSO](http://jswarm-pso.sourceforge.net/)
 ``` xml
 	<dependency>
 	    <groupId>com.github.archialgo</groupId>
-	    <artifactId>JSawrm-PSO-maven-lib</artifactId>
+	    <artifactId>JSwarm-PSO-maven-lib</artifactId>
 	    <version>Tag</version>
 	</dependency>
 ```
