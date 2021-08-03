@@ -18,7 +18,7 @@ original author: [JSwarm-PSO](http://jswarm-pso.sourceforge.net/)
 **Step 2.** Add the dependency (with version number)
 ``` xml
 	<dependency>
-	    <groupId>com.github.archialgo</groupId>
+	    <groupId>com.github.Agent14zbz</groupId>
 	    <artifactId>JSwarm-PSO-maven-lib</artifactId>
 	    <version>Tag</version>
 	</dependency>
